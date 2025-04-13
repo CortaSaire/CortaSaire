@@ -9,7 +9,6 @@ Aspiring Front-End Developer
 
 ### GitHub Stats:  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CortaSaire&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=CortaSaire)
 
 
 ---
