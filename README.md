@@ -8,7 +8,9 @@ Aspiring Front-End Developer
 - Learning Front-End Development step by step  
 
 ### GitHub Stats:  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CortaSaire&show_icons=true&theme=dark&hide=contribs,issues)
+![GitHub Streak](https://streak-stats.demolab.com/?user=CortaSaire&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=CortaSaire)
+
 
 ---
 
